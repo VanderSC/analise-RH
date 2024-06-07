@@ -1,6 +1,7 @@
 ![image](https://github.com/VanderSC/analise-RH/assets/95940138/3221d4a3-2ad5-4f49-a3d4-4c407b6aff12)
 
 É um conjunto de dados do RH que contém dados simulados que refletem vários fatores que influenciam os níveis salariais, como educação, experiência, localização, cargo, idade e gênero.
+
 Educação
 As opções incluem 'Ensino Médio', 'Bacharelado', 'Mestrado' e 'Doutorado'.
 
