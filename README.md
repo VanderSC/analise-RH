@@ -2,23 +2,16 @@
 
 É um conjunto de dados do RH que contém dados simulados que refletem vários fatores que influenciam os níveis salariais, como educação, experiência, localização, cargo, idade e gênero.
 
-Educação
-As opções incluem 'Ensino Médio', 'Bacharelado', 'Mestrado' e 'Doutorado'.
+Educação: As opções incluem 'Ensino Médio', 'Bacharelado', 'Mestrado' e 'Doutorado'.
 
-Experiência
-Variável inteira que representa o número de anos de experiência profissional.
+Experiência: Variável inteira que representa o número de anos de experiência profissional.
 
-Localização
-Variável categórica que denota a localização geográfica do emprego, categorizada em 'Urbano', 'Suburbano' ou 'Rural'.
+Localização: Variável categórica que denota a localização geográfica do emprego, categorizada em 'Urbano', 'Suburbano' ou 'Rural'.
 
-Cargo
-Variável categórica que indica o cargo ou posição ocupada por um indivíduo, com opções como 'Engenheiro', 'Gerente', 'Analista' e 'Diretor'.
+Cargo: Variável categórica que indica o cargo ou posição ocupada por um indivíduo, com opções como 'Engenheiro', 'Gerente', 'Analista' e 'Diretor'.
 
-Idade
-Variável inteira que representa a idade do indivíduo.
+Idade: Variável inteira que representa a idade do indivíduo.
 
-Gênero
-Variável categórica que representa o sexo do indivíduo, categorizado em 'Masculino' ou 'Feminino'.
+Gênero: Variável categórica que representa o sexo do indivíduo, categorizado em 'Masculino' ou 'Feminino'.
 
-Salário
-Variável contínua que representa o salário anual do indivíduo.
+Salário: Variável contínua que representa o salário anual do indivíduo.
