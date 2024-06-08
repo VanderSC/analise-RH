@@ -1,6 +1,6 @@
 ![image](https://github.com/VanderSC/analise-RH/assets/95940138/3221d4a3-2ad5-4f49-a3d4-4c407b6aff12)
 
-É um conjunto de dados do RH que contém dados simulados que refletem vários fatores que influenciam os níveis salariais, como educação, experiência, localização, cargo, idade e gênero.
+Essa base de dados contem dados simulados do RH que refletem vários fatores que influenciam os níveis salariais, como educação, experiência, localização, cargo, idade e gênero.
 
 Educação: As opções incluem 'Ensino Médio', 'Bacharelado', 'Mestrado' e 'Doutorado'.
 
@@ -33,4 +33,4 @@ Qual a correlação entre Salário e Experiência, entre pessoas que são PhD e 
 Deixando mais especifica a correlação mostra que existe uma correlação forte entre Experiência e Salário, com esse filtro de pessoas.
 Importante mencionar que correlação não implica causalidade. Mesmo que duas variáveis estejam fortemente correlacionadas, isso não significa que uma causa a outra.
 
-O objetivo desta análise exploratória é obter insights acerca dos Salários, Educacão, Experiência, Idade, Genêro entre outros de forma geral, Ela fornece uma compreensão mais profunda dos dados, que pode ser útil para a tomada de decisões.
+# O objetivo desta análise exploratória é obter insights acerca dos Salários, Educacão, Experiência, Idade, Genêro entre outros de forma geral, Ela fornece uma compreensão mais profunda dos dados, que pode ser útil para a tomada de decisões.
