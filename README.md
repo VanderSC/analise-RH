@@ -27,6 +27,8 @@ Para ter os maiores Salários precisa ter sempre mais experiência?
 
 Percebemos que os maiores salários sempre necessitam que a pessoa tenha entre a 15 a 30 anos de experiencia.
 
+O objetivo desta análise exploratória é obter insights acerca dos Salários, Educacão, Experiência, Idade, Genêro entre outros de forma geral, Ela fornece uma compreensão mais profunda dos dados, que pode ser útil para a tomada de decisões.
+
 Qual a correlação entre Salário e Experiência, entre pessoas que são PhD e Diretores?
 ![image](https://github.com/VanderSC/analise-RH/assets/95940138/b4ac5b79-935b-4301-831c-54ad3509d845)
 
