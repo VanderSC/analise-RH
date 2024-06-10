@@ -17,4 +17,4 @@ Gênero: Variável categórica que representa o sexo do indivíduo, categorizado
 Salário: Variável contínua que representa o salário anual do indivíduo.
 
 
-## O objetivo desta análise exploratória é obter insights acerca dos Salários, Educacão, Experiência, Idade, Genêro entre outros de forma geral, Ela fornece uma compreensão mais profunda dos dados, que pode ser útil para a tomada de decisões.
+### O objetivo desta análise exploratória é obter insights acerca dos Salários, Educacão, Experiência, Idade, Genêro entre outros de forma geral, tentar compreender algumas relações e medidas que podem ajudar o RH a tomar boas decisões.
