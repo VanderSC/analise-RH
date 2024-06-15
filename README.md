@@ -12,3 +12,5 @@ Salário: Variável contínua que representa o salário anual do indivíduo.
 
 
 ### O objetivo desta análise exploratória é obter insights acerca dos Salários, Educacão, Experiência, Idade, Genêro entre outros de forma geral, tentar compreender algumas relações e medidas que podem ajudar o RH a tomar boas decisões.
+
+Link da base de dados: https://www.kaggle.com/datasets/mrsimple07/salary-prediction-data?select=salary_prediction_data.csv
